@@ -547,8 +547,8 @@ footer p {
         gap: 10px;
     }
     .slider_btn span {
-        width: 5px;
-        height: 5px;
+        width: 10px;
+        height: 10px;
         border: 1px solid var(--Bright-Red);
         border-radius: 50px;
         transition: all 0.5s ease-in-out;
